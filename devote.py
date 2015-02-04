@@ -4,7 +4,7 @@ import base64
 
 USERNAME = "my-email@example.com"
 API_KEY = "my-devote-api-key"
-BASE_URL = "https://dev1.devote.io/api"
+BASE_URL = "https://devote.io/api"
 VERSION = "v1"
 
 
